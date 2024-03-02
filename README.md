@@ -4,6 +4,8 @@
 
 Built this webpage in order to develop understanding of HTML, CSS, JavaScript and Git by putting the learning into practice. I am now familiar with the different languages as well as Git Workflow. This webpage is a summary of my learning and understanding.
 
+https://illakaya.github.io/prework-study-guide/
+
 ## Installation
 
 N/A
