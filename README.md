@@ -6,6 +6,8 @@ This webpage was built in order to develop a brief understanding of HTML, CSS, J
 
 ![Alt text](./assets/images/screenshotOfApplication.png 'Screenshot of the application')
 
+https://illakaya.github.io/prework-study-guide/
+
 ## Installation
 
 No extra installations are required.
