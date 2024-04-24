@@ -19,7 +19,7 @@ Link to the website: https://illakaya.github.io/prework-study-guide/
 ## Credits
 
 Thank you to:
-- The Coding Bootcamp at the University of Sydney for providing a project for students to develop their understanding of web accessibility
+- The Coding Bootcamp at the University of Sydney for providing a project for students to develop their understanding of basic HTML, CSS, JavaScript and Git workflow.
 
 ## License
 
